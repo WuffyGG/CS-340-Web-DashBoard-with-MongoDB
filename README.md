@@ -46,4 +46,3 @@ Daniel Urena
 Southern New Hampshire University
 
 Bachelor of Science in Computer Science
-```
