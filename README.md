@@ -4,23 +4,9 @@ This repository contains both the original CS 340 artifact and the enhanced CS 4
 
 ## Original Artifact
 
-Location:
-
-Original Artifact/
-
 The original artifact was created in CS 340: Client/Server Development. It consists of a JupyterDash application connected to MongoDB that displays and filters animal shelter records.
 
-Files include:
-
-- ProjectTwoDashboard.ipynb
-- CRUD_Python_Module.py
-- aac_shelter_outcomes.csv
-
 ## Enhanced Artifact
-
-Location:
-
-Enhanced Artifact/
 
 The enhanced artifact was developed in CS 499 and demonstrates improvements in three areas:
 
@@ -52,14 +38,6 @@ The enhanced artifact was developed in CS 499 and demonstrates improvements in t
 - Pandas
 - Plotly
 - Dash Leaflet
-
-## Repository Structure
-
-```
-Original Artifact/
-Enhanced Artifact/
-README.md
-```
 
 ## Author
 
